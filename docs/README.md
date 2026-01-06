@@ -30,7 +30,7 @@
 
 | Home Page | Download Manager | Extensions |
 |-----------|------------------|------------|
-| Check in docs/screenshot   Check in docs/screenshot
+| Check in docs/screenshot
 
 ##  Download
 
