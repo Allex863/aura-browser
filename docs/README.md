@@ -35,7 +35,7 @@
 ## ?? Download
 
 ### Latest Release
-[![Download v1.0](https://img.shields.io/badge/Download-Aura_Browser_1.0-blue)](https://github.com/yourusername/aura-browser/releases/latest)
+[![Download v1.0](https://img.shields.io/badge/Download-Aura_Browser_1.0-blue)](https://github.com/Allex863/aura-browser/releases/latest)
 
 **System Requirements:**
 - Windows 10/11 (64-bit)
@@ -50,5 +50,5 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/aura-browser.git
+git clone https://github.com/Allex863/aura-browser.git
 cd aura-browser
