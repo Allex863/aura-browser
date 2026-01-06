@@ -1,7 +1,7 @@
 #  Aura Browser
 
 <p align="center">
-  <img src="docs/screenshots/home.png" width="600" alt="Aura Browser Screenshot">
+  <img src="docs/screenshots/home.png" width="600" alt="Check in docs/screenshot">
 </p>
 
 <p align="center">
