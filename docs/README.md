@@ -30,7 +30,7 @@
 
 | Home Page | Download Manager | Extensions |
 |-----------|------------------|------------|
-| <img src="Check in docs/screenshot" width="250"> | <img src="Check in docs/screenshot" width="250"> | <img src="Check in docs/screenshot" width="250"> |
+| Check in docs/screenshot   Check in docs/screenshot
 
 ##  Download
 
