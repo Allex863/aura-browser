@@ -1,4 +1,4 @@
-# ?? Aura Browser
+#  Aura Browser
 
 <p align="center">
   <img src="docs/screenshots/home.png" width="600" alt="Aura Browser Screenshot">
@@ -16,23 +16,23 @@
   <a href="#usage">Usage</a>
 </p>
 
-## ? Features
+##  Features
 
-- ?? **Modern Design**: macOS-inspired interface with beautiful gradients
-- ?? **Advanced Download Manager**: Pause, resume, and manage downloads
-- ?? **Extension Support**: Install Chrome extensions (.crx files)
-- ?? **Chromium Engine**: Based on QtWebEngine (same as Chrome)
-- ?? **Secure**: HTTPS support and privacy features
-- ?? **Quick Links**: Built-in quick access to popular sites
-- ?? **Portable**: No installation required (single .exe file)
+-  **Modern Design**: macOS-inspired interface with beautiful gradients
+-  **Advanced Download Manager**: Pause, resume, and manage downloads
+-  **Extension Support**: Install Chrome extensions (.crx files)
+-  **Chromium Engine**: Based on QtWebEngine (same as Chrome)
+-  **Secure**: HTTPS support and privacy features
+-  **Quick Links**: Built-in quick access to popular sites
+-  **Portable**: No installation required (single .exe file)
 
-## ?? Screenshots
+##  Screenshots
 
 | Home Page | Download Manager | Extensions |
 |-----------|------------------|------------|
 | <img src="docs/screenshots/home.png" width="250"> | <img src="docs/screenshots/downloads.png" width="250"> | <img src="docs/screenshots/extensions.png" width="250"> |
 
-## ?? Download
+##  Download
 
 ### Latest Release
 [![Download v1.0](https://img.shields.io/badge/Download-Aura_Browser_1.0-blue)](https://github.com/Allex863/aura-browser/releases/latest)
@@ -42,7 +42,7 @@
 - 4GB RAM minimum
 - 200MB free disk space
 
-## ?? Build from Source
+##  Build from Source
 
 ### Prerequisites
 - Python 3.8+
