@@ -1,7 +1,7 @@
 # ?? Aura Browser
 
 <p align="center">
-  <img src="docs/screenshots/main.png" width="600" alt="Aura Browser Screenshot">
+  <img src="docs/screenshots/home.png" width="600" alt="Aura Browser Screenshot">
 </p>
 
 <p align="center">
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#download">Download</a> •
-  <a href="#build">Build</a> •
+  <a href="#features">Features</a> â€¢
+  <a href="#screenshots">Screenshots</a> â€¢
+  <a href="#download">Download</a> â€¢
+  <a href="#build">Build</a> â€¢
   <a href="#usage">Usage</a>
 </p>
 
